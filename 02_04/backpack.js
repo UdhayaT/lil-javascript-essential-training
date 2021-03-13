@@ -3,7 +3,7 @@ const updateBackpack = (update) => {
   main.innerHTML = markup(backpack);
   console.info(update);
 };
-
+// good to know
 const backpack = {
   name: "Everyday Backpack",
   volume: 30,
